@@ -1,0 +1,16 @@
+function hello(name){
+    print("Привіт, " + name)
+}
+
+let user = "Ollof!"
+
+hello(user)
+
+a = 5
+
+
+
+print("nvrjf" + "ffff")
+
+print(1)
+print( 2 + 2 + a )
