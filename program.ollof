@@ -8,8 +8,6 @@ hello(user)
 
 a = 5
 
-
-
 print("nvrjf" + "ffff")
 
 print(1)
